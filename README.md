@@ -17,6 +17,7 @@ Notes about LLM augmented agent.
 | title | abstract | orgnization | 
 |-------|----------|-------------|
 |[A Survey on Large Language Model based Autonomous Agents](https://arxiv.org/pdf/2308.11432.pdf)| | |
+|[The Rise and Potential of Large Language Model Based Agents: A Survey](https://arxiv.org/pdf/2309.07864v1.pdf) | | |
 |[AutoGen: Enabling Next-Gen LLM Applications via Multi-Agent Conversation](https://arxiv.org/pdf/2308.08155.pdf) | | |
 |[METAGPT: META PROGRAMMING FOR A MULTI-AGENT COLLABORATIVE FRAMEWORK](https://arxiv.org/pdf/2308.00352.pdf) | | |
 |[Experiential Co-Learning of Software-Developing Agents](https://arxiv.org/pdf/2312.17025.pdf) | | |
